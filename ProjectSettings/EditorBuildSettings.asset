@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/USD/1.0.3-preview.2/ImportMesh/ImportMesh.unity
+    guid: 5ce07a56ff0108649b84e6079ded28a2
   m_configObjects: {}
